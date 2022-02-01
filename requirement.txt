@@ -1,0 +1,9 @@
+tensorflow-addons==0.15.0
+tensorflow-datasets==4.4.0
+tensorflow-estimator==2.7.0
+tensorflow-gpu==2.6.0
+tensorflow-metadata==1.6.0
+tensorflow-similarity==0.15.2
+
+keras == 2.6.0
+gym
