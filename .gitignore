@@ -122,3 +122,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Datasets
+dataSets/
+aclImdb/
+*.jpg
+*.png 
+*.zip 
+*.tar 
+*.tar.gz 
+*.db 
+
