@@ -126,8 +126,6 @@ dmypy.json
 # Datasets
 dataSets/
 aclImdb/
-*.jpg
-*.png 
 *.zip 
 *.tar 
 *.tar.gz 
