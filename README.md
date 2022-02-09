@@ -15,7 +15,8 @@
 ## Requirement
 环境可以从requirement.txt进行安装，主要是以下两个：
 1. tensorflow-gpu == 2.6.0
-2. keras == 2.6.0
+2. tensorflow-datasets == 4.4.0
+3. keras == 2.6.0
 
 -------------
 
